@@ -1,0 +1,63 @@
+.bg{
+    background-image:url('https://img.freepik.com/premium-photo/futuristic-fantasy-night-landscape-with-light-reflection-water-neon-space-galaxy-portal-3d-illustration_129911-2487.jpg');
+    background-size:cover;
+    height:cover;
+}
+.body-img{
+    border-radius:50%;
+    width:250px;
+    height:250px;
+}
+.body{
+    width:450px;
+    background:rgba(128, 128, 128, 0.626);
+    padding:40px;
+    text-align:center;
+     margin:auto;
+     padding-bottom:5%;
+    color:white;
+    
+}
+.body p{
+  text-align:justify;
+}
+ul{
+    margin:0;
+    padding:0;
+}
+.body li{
+    display:inline-block;
+    margin:6px;
+
+}
+.navbar{
+    width:100%;
+}
+.navbar ul{
+    lst-style:none;
+    padding:1rem 3rem;
+
+}
+.navbar ul li a{
+    display:block;
+    padding:1rem;
+    margin:1.5rem 0;
+    background:black;
+    color:white;
+    font-size: 2rem;
+    border-radius:5rem;
+
+
+}
+.navbar ul li a:hover{
+    background:var(--yellow);
+}
+.about{
+    color:white;
+}
+.education{
+    color:white;
+}
+.contact{
+    color:white;
+}
